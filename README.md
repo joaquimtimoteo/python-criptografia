@@ -1,4 +1,4 @@
-Claro! Aqui está um exemplo de README para o projeto de criptografia utilizando Python com as bibliotecas `cryptography` e `cryptography.fernet`:
+
 
 ---
 
